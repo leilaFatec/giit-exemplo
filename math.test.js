@@ -1,5 +1,6 @@
 function add(){
-
+let soma a+ b;
+  return soma;
 }
 
 const math = require('../math');
